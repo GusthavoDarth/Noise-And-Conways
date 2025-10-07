@@ -72,7 +72,17 @@ int** step(int** matrixA){
     return auxMatrix;
 }
 ```
+### Controls and how to play
+To play you just execute the Conway.exe, it will open a window with squares all white, if you left click it turns the square black and the cell become alive
+nothing realy happens, that because it needs you to hold the right arrow key to works and iterate the rules, if you probably just click in one cell it wil die
+Try press T that make apears some test cells that make some patterns when you hold the right arrow key 
 
+[gifs here]
+
+
+
+
+ 
 ## Noise generator: How it works
 
 
