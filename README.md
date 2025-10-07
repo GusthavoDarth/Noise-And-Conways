@@ -5,7 +5,7 @@ A noise generator and Conways game.
 ## Ideia
 This is a project that i already have mede, sort of.
 I just wanted to do it with better visuals, so i used the Raylib library to help me with that.
-Making the game i became curius with noise and how it can generate terrain, 
+Making the game i became curious with noise and how it can generate terrain, 
 and there i begin to make a new program very simple to play with it.
 
 
